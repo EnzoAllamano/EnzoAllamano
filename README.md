@@ -2,16 +2,16 @@
 <img width="100%" height = "300px" src="http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg" alt="cover" />
 </div>
 
-<h1> Hola < Mundo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hola < Mundo/ > soy Enzo Allamano! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EnzoAllamano.EnzoAllamano)
-
 </p>
-<div size='20px'> Hola! Soy Enzo Allamano y antes que nada quiero agradecerte por tomarte el tiempo de visitar mi perfil!
+<div size='20px'> <h3>Antes que nada quiero agradecerte por tomarte el tiempo de visitar mi perfil y leer este pequeño (créeme, muy pequeño) resúmen sobre mi.</h3>
 </div>
 
-<h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EnzoAllamano.EnzoAllamano)
+  
+<h2> Sobre mi</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
