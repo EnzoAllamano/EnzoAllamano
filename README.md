@@ -2,16 +2,16 @@
 <img width="100%" height = "300px" src="http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg" alt="cover" />
 </div>
 
-<h1> Hola < Mundo/ > soy Enzo Allamano! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hola < Mundo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EnzoAllamano.EnzoAllamano)
+
 </p>
-<div size='20px'> <h3>Antes que nada quiero agradecerte por tomarte el tiempo de visitar mi perfil y leer este pequeño (créeme, muy pequeño) resúmen sobre mi.</h3>
+<div size='20px'> Hola! Soy Enzo Allamano y antes que nada quiero agradecerte por tomarte el tiempo de visitar mi perfil!
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EnzoAllamano.EnzoAllamano)
-  
-<h2> Sobre mi</h2>
+<h2> Sobre mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
@@ -56,8 +56,6 @@
 - 💬 Email: <a href = "mailto:eallamano.contact@gmail.com"> eallamano.contact@gmail.com </a>
 
 - 🤝 <a href = 'https://www.linkedin.com/in/enzo-allamano-0b9190214/'> Mi LinkedIn </a> 
-
-
 <h2> Esta última semana estuve enfocado en <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <ul>
   <li> 💰 VBank - proyecto grupal en SoyHenry (Puedes visitarlo en la sección de mi repositorios 👀👀)
@@ -65,8 +63,6 @@
   <li> 👤 Mis perfiles en redes
   </li>
   </ul>
-<br>
-
 <h2> Por último te dejo un pequeño chiste que circula por las redes <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
